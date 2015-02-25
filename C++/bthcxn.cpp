@@ -24,7 +24,7 @@
 #include <ws2bth.h>
 #include <strsafe.h>
 #include <intsafe.h>
-
+#include <math.h> 
 
 // {B62C4E8D-62CC-404b-BBBF-BF3E3BBB1374}
 DEFINE_GUID(g_guidServiceClass, 0xb62c4e8d, 0x62cc, 0x404b, 0xbb, 0xbf, 0xbf, 0x3e, 0x3b, 0xbb, 0x13, 0x74);
