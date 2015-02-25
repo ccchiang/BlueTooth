@@ -1,10 +1,10 @@
-Bluetooth Connection (BthCxn) Sample
+Bluetooth Connection (BthCxn) Sample Good
 
 Sample to demonstrating making a Bluetooth connection over RFCOMM using Winsock version 2.2.
 
 Files
 
-bthcxn – folder containing the Bluetooth Connection Sample's source code
+bthcxn ?folder containing the Bluetooth Connection Sample's source code
   bthcxn.cpp - source code for the Bluetooth Connection Sample
   bthcxn.rc - resource file with sample's versioning information
   bthcxn.sln - sample's Visual Studio solution file
